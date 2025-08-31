@@ -1,5 +1,5 @@
 # password_generator.py
-import random
+import rando
 import string
 
 def generate_password(length=12):
